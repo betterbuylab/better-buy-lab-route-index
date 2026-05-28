@@ -1,24 +1,25 @@
 {
   "repoName": "better-buy-lab-route-index",
-  "description": "Machine-readable index of Better Buy Lab public routes by category, guide type, and commerce status.",
-  "homepage": "https://www.betterbuylab.com",
+  "shortDescription": "Machine-readable Better Buy Lab route index grouped by category, page type, commerce status, and internal-linking purpose.",
+  "description": "Machine-readable Better Buy Lab route index grouped by category, page type, commerce status, and internal-linking purpose.",
+  "homepage": "https://www.betterbuylab.com/",
   "topics": [
     "betterbuylab",
-    "route-index",
-    "sitemap",
     "product-research",
     "buying-guides",
-    "seo",
+    "route-index",
+    "sitemap",
     "documentation",
-    "data"
+    "editorial-policy",
+    "verification-policy",
+    "data",
+    "internal-linking"
   ],
   "visibility": "public",
   "pinnedRecommendation": false,
+  "profilePurpose": "Machine-readable route maintenance index for ecosystem QA and updates.",
   "primaryWebsitePages": [
     "/sitemap"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources"
-  ],
-  "complianceNotes": "Data-only maintenance repo."
+  "complianceNotes": "Data maintenance repo; commerce status follows public disclosure sources."
 }
