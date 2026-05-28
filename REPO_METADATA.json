@@ -1,0 +1,24 @@
+{
+  "repoName": "better-buy-lab-route-index",
+  "description": "Machine-readable index of Better Buy Lab public routes by category, guide type, and commerce status.",
+  "homepage": "https://www.betterbuylab.com",
+  "topics": [
+    "betterbuylab",
+    "route-index",
+    "sitemap",
+    "product-research",
+    "buying-guides",
+    "seo",
+    "documentation",
+    "data"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": false,
+  "primaryWebsitePages": [
+    "/sitemap"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources"
+  ],
+  "complianceNotes": "Data-only maintenance repo."
+}
